@@ -2,7 +2,6 @@
 """
 Common modules
 """
-
 import ast
 import contextlib
 import json
